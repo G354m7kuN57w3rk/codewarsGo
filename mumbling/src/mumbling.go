@@ -4,7 +4,7 @@ import (
 	"strings"
 )
 
-//Accum returns a mumbling like "abcd" -> "A-Bb-Ccc-Dddd"
+//Accum returns a mumbling string like "abcd" -> "A-Bb-Ccc-Dddd"
 func Accum(s string) string {
 	var ans string
 	for i, v := range s {
