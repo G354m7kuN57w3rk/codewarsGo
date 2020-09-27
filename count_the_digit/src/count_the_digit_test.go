@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestSummation(t *testing.T) {
+func TestNbDig(t *testing.T) {
 	tables := []struct {
 		x int
 		y int

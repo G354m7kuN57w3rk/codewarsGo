@@ -15,4 +15,5 @@
 #### 7 kyû
 - [Sum of odd numbers](https://github.com/d0p4m1n3/codewarsGo/tree/master/sum_of_odd_numbers)
 - [Count the Digit](https://github.com/d0p4m1n3/codewarsGo/tree/master/count_the_digit)
+- [Vowel Count](https://github.com/d0p4m1n3/codewarsGo/tree/master/vowel_count)
 

@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestSummation(t *testing.T) {
+func TestRemoveChar(t *testing.T) {
 	tables := []struct {
 		x string
 		y string
