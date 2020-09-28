@@ -17,4 +17,5 @@
 - [Count the Digit](https://github.com/d0p4m1n3/codewarsGo/tree/master/count_the_digit)
 - [Vowel Count](https://github.com/d0p4m1n3/codewarsGo/tree/master/vowel_count)
 - [Mumbling](https://github.com/d0p4m1n3/codewarsGo/tree/master/mumbling)
+- [Highest and Lowest](https://github.com/d0p4m1n3/codewarsGo/tree/master/highest_and_lowest)
 
