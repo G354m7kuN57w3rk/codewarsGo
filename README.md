@@ -20,3 +20,4 @@
 - [Highest and Lowest](https://github.com/d0p4m1n3/codewarsGo/tree/master/highest_and_lowest)
 - [Shortest Word](https://github.com/d0p4m1n3/codewarsGo/tree/master/shortest_word)
 - [Complementary DNA](https://github.com/d0p4m1n3/codewarsGo/tree/master/complementary_dna)
+- [Growth of a Population](https://github.com/d0p4m1n3/codewarsGo/tree/master/growth_of_a_population)
