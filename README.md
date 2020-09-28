@@ -18,4 +18,5 @@
 - [Vowel Count](https://github.com/d0p4m1n3/codewarsGo/tree/master/vowel_count)
 - [Mumbling](https://github.com/d0p4m1n3/codewarsGo/tree/master/mumbling)
 - [Highest and Lowest](https://github.com/d0p4m1n3/codewarsGo/tree/master/highest_and_lowest)
+- [Shortest Word](https://github.com/d0p4m1n3/codewarsGo/tree/master/shortest_word)
 
