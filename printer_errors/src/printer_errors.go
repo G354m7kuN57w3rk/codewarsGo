@@ -7,12 +7,12 @@ import (
 
 //PrinterError returns error rate of input string
 func PrinterError(s string) string {
-	err := "abcdefghijklm"
+	col := "abcdefghijklm"
 	var ans int
 	strSplit := strings.Split(s, "")
 	for _, v := range strSplit {
 		chr := string(v)
-		if !strings.Contains(err, chr) {
+		if !strings.Contains(col, chr) {
 			ans++
 		}
 	}
