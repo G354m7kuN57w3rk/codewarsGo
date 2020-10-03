@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-//TwoToOne concat two strings and returns a sorted string containing distinct letters
+//TwoToOne concat two strings and returns a sorted string containing distinct characters
 func TwoToOne(s1 string, s2 string) string {
 	var ans string
 	strSplit := strings.Split(s1+s2, "")
