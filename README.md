@@ -22,3 +22,4 @@
 - [Complementary DNA](https://github.com/d0p4m1n3/codewarsGo/tree/master/complementary_dna)
 - [Growth of a Population](https://github.com/d0p4m1n3/codewarsGo/tree/master/growth_of_a_population)
 - [Two to One](https://github.com/d0p4m1n3/codewarsGo/tree/master/two_to_one)
+- [Printer Errors](https://github.com/d0p4m1n3/codewarsGo/tree/master/printer_errors)
