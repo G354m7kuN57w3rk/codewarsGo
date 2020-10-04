@@ -25,3 +25,4 @@
 - [Printer Errors](https://github.com/d0p4m1n3/codewarsGo/tree/master/printer_errors)
 - [Is this a triangle?](https://github.com/d0p4m1n3/codewarsGo/tree/master/is_this_a_triangle)
 - [String ends with?](https://github.com/d0p4m1n3/codewarsGo/tree/master/string_ends_with)
+- [Breaking chocolate problem](https://github.com/d0p4m1n3/codewarsGo/tree/master/breaking_chocolate_problem)
