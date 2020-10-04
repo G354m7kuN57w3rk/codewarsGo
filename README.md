@@ -27,3 +27,4 @@
 - [String ends with?](https://github.com/d0p4m1n3/codewarsGo/tree/master/string_ends_with)
 - [Breaking chocolate problem](https://github.com/d0p4m1n3/codewarsGo/tree/master/breaking_chocolate_problem)
 - [Maximum Length Difference](https://github.com/d0p4m1n3/codewarsGo/tree/master/maximum_length_difference)
+- [Make a function that does arithmetic!](https://github.com/d0p4m1n3/codewarsGo/tree/master/make_a_function_that_does_arithmetic)
