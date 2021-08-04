@@ -1,6 +1,6 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/G354m7kuN57w3rk/codewarsGo)](https://goreportcard.com/report/github.com/G354m7kuN57w3rk/codewarsGo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/m3rzb0w/codewarsGo)](https://goreportcard.com/badge/github.com/m3rzb0w/codewarsGo)
 
-[![Budget](https://www.codewars.com/users/G354m7kuN57w3rk/badges/large)](https://www.codewars.com/users/G354m7kuN57w3rk/badges/large)
+[![Budget](https://www.codewars.com/users/m3rzb0w/badges/large)](https://www.codewars.com/users/m3rzb0w/badges/large)
 
 ## [Codewars](https://www.codewars.com) - Golang solutions
 
